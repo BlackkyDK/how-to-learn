@@ -1,0 +1,6 @@
+.table_theme_dark {
+  display: grid;
+  margin: 0 auto;
+  color: white;
+  list-style: none;
+}

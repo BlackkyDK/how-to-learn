@@ -1,0 +1,9 @@
+.khan__author {
+  display: flex;
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 42px;
+  justify-content: left;
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,13 @@
+.header__link {
+  text-decoration: none;
+  color: #2f80ed;
+  align-content: flex-end;
+  justify-content: flex-end;
+  height: 765px;
+  width: 608px;
+  opacity: 1;
+}
+.header__link:hover {
+  opacity: .2;
+  transition: opacity 1s linear .3s;
+}
